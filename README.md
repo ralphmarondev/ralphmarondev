@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ralphmarondev
+- 👋 Hi, I’m Ralph Maron Eda
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning jetpack compose with kotlin
 - 💞️ I’m looking to collaborate on advance jetpack compose topics
