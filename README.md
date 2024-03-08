@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ralph Maron Eda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralphmarondev&label=Profile%20views&color=0e75b6&style=flat" alt="ralphmarondev" /> </p>
 
-- 🔭 I’m currently working on [Post Application App](https://github.com/ralphmarondev/post-application)
+- 🔭 I’m currently working for **my future as a Computer Engineer**
 - 🌱 I’m currently learning **Jetpack Compose using Kotlin**
 - 💬 Ask me about **Mobile Development**
 - 📫 How to reach me **ralphmaron.dev@gmail.com**
