@@ -4,7 +4,7 @@
 - 🔭 I’m currently working **towards a career as a Computer Engineer**.
 - 🌱 I’m learning **Jetpack Compose with Kotlin**.
 - 💬 Ask me about **mobile development**.
-- 📫 You can reach me at **ralphmaron.dev@gmail.com**.
+- 📫 You can reach me at **edaralphmaron@gmail.com**.
 
 <div> <a href="https://github.com/ralphmarondev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:ralphmaron.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
