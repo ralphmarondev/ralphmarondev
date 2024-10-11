@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ralph Maron Eda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralphmarondev&label=Profile%20views&color=0e75b6&style=flat" alt="ralphmarondev" /> </p>
 
-- 🔭 I’m working **towards a career as a Computer Engineer**.
-- 🌱 Currently learning **Jetpack Compose with Kotlin**.
-- 💬 Ask me about **mobile development!**.
-- 📫 Reach me at **edaralphmaron@gmail.com**.
+- 🔭 Computer Engineer
+- 🌱 Deep into Jetpack Compose with Kotlin
+- 💻 Technologies: Kotlin, Jetpack Compose, Vue, Django
+- 📈 Currently learning: Compose Multiplatform
+- 💬 Ask me about: Mobile development, Web development
+- 📫 Contact: edaralphmaron@gmail.com
 
 <div> 
 <a href="https://github.com/ralphmarondev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
