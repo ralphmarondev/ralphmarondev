@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ralph Maron Eda
+<!--# Hi 👋, I'm Ralph Maron Eda
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ralphmarondev&label=Profile%20views&color=0e75b6&style=flat" alt="ralphmarondev" />
@@ -40,3 +40,4 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+-->
