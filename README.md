@@ -7,11 +7,11 @@
 ### 👨‍💻 About Me
 - 🔭 **Computer Engineer** passionate about crafting impactful projects.  
 - 🌱 Currently exploring **Jetpack Compose Multiplatform** and building apps with **Kotlin**.  
-- 💻 Technologies: **Kotlin**, **Jetpack Compose**, **Vue.js**, **Django**.  
+- 💻 Technologies: **Kotlin**, **Jetpack Compose**, **Vue 3**, **Django Rest Framework**.  
 - 📫 Reach me at: **[edaralphmaron@gmail.com](mailto:edaralphmaron@gmail.com)**.  
 
 ---
-
+ 
 ### 🛠️ Languages and Tools
 <p>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
@@ -20,6 +20,9 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+   <img src="https://pnbmobile.com/images/typescript_logo.png" alt="TypeScript" width="40" height="40"/>
+   <img src="https://michaeldc86.github.io/django_rest.png" alt="Django Rest Framework" width="40" height="40"/>
+   <img src="https://images.icon-icons.com/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" width="40" height="40"/>
 </p>
 
 ---
