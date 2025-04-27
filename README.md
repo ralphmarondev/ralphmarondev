@@ -25,6 +25,7 @@
    <img src="https://images.icon-icons.com/2699/PNG/512/firebase_logo_icon_171157.png" alt="Firebase" width="40" height="40"/>
 </p>
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -43,4 +44,4 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
+-->
