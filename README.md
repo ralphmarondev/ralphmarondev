@@ -1,15 +1,20 @@
 # Hi N***a 👋
+
 ```kotlin
-fun person(
-    name: String,
-    role: String,
-    email: String
-) {
-    println("$name • $role • $email")
+class Person {
+    val name = "Ralph Maron Eda"
+    val role = "Kotlin Developer"
+    val email = "edaralphmaron@gmail.com"
+    
+    fun greet() = "Hi there! 👋 I'm $name, a $role. Feel free to reach me at $email!"
+    
+    fun funFact() = "I write Kotlin like it’s my favorite language… because it is. 😎"
+    
+    fun motto() = "Keep code cute, simple, and full of personality!"
 }
 
-person(
-    name = "Ralph Maron Eda",
-    role = "Kotlin Developer",
-    email = "edaralphmaron@gmail.com"
-)
+val me = Person()
+
+println(me.greet())
+println(me.funFact())
+println(me.motto())
