@@ -11,5 +11,5 @@ fun person(
 person(
     name = "Ralph Maron Eda",
     role = "Kotlin Developer",
-    email = "your.email@example.com"
+    email = "edaralphmaron@gmail.com"
 )
