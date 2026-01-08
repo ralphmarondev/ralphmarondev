@@ -8,7 +8,7 @@
 
 - 🔭 **Computer Engineer** passionate about building meaningful apps and projects.
 - 🌱 Exploring **Compose Multiplatform** for cross-platform development.
-- 💻 Tech stack: **Kotlin**, **Jetpack Compose**, **Spring Boot**, **Vue 3**.
+- 💻 Tech stack: **Kotlin**, **Jetpack Compose**, **Spring Boot**.
 - 📫 Connect: **[edaralphmaron@gmail.com](mailto:edaralphmaron@gmail.com)**
 ---
  
